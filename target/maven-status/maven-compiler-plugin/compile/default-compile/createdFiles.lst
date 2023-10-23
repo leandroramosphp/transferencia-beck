@@ -1,0 +1,6 @@
+com/transferencia/spring/jpa/h2/controller/TransferenciaController.class
+com/transferencia/spring/jpa/h2/SpringBootJpaH2Application.class
+com/transferencia/spring/jpa/h2/dominio/CalculoTaxas.class
+com/transferencia/spring/jpa/h2/repository/TransferenciaRepository.class
+com/transferencia/spring/jpa/h2/model/Transferencia.class
+com/transferencia/spring/jpa/h2/aplication/Transacao.class
